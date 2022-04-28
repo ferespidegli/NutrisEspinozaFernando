@@ -102,8 +102,8 @@ i#icon__submenu {
   font-size: 6rem;
   border-radius: solid black 1rem; }
 
-p.texto {
-  font-size: 2em;
+p {
+  font-size: em;
   font-family: 'Montserrat', sans-serif; }
 
 /*inicio estilo footer*/
